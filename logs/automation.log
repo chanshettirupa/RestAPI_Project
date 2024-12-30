@@ -1,0 +1,30 @@
+19:32:724.724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\RestAPI_Project\testing.xml
+
+19:32:920.920 [main] INFO  api.test.UserTests - **************Creating post User *******************
+19:32:386.386 [main] INFO  api.test.UserTests - **************** User is created *******************
+19:32:392.392 [main] INFO  api.test.UserTests - **************Get User Details *******************
+19:32:784.784 [main] INFO  api.test.UserTests - **************User Details Displayed *******************
+19:32:789.789 [main] INFO  api.test.UserTests - **************Update User Details *******************
+19:32:894.894 [main] INFO  api.test.UserTests - **************Updated the User Details *******************
+19:32:898.898 [main] INFO  api.test.UserTests - **************Delete User Details *******************
+19:32:44.044 [main] INFO  api.test.UserTests - **************Deleted User Details *******************
+09:37:361.361 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\TiaaUser\eclipse-workspace\RestAPI_Project\testing.xml
+
+09:37:548.548 [main] INFO  api.test.UserTestsProperties - **************Creating post User *******************
+09:37:460.460 [main] INFO  api.test.UserTestsProperties - **************** User is created *******************
+09:37:465.465 [main] INFO  api.test.UserTestsProperties - **************Get User Details *******************
+09:37:285.285 [main] INFO  api.test.UserTestsProperties - **************User Details Displayed *******************
+09:37:292.292 [main] INFO  api.test.UserTestsProperties - **************Update User Details *******************
+09:37:239.239 [main] INFO  api.test.UserTestsProperties - **************Updated the User Details *******************
+09:37:243.243 [main] INFO  api.test.UserTestsProperties - **************Delete User Details *******************
+09:37:952.952 [main] INFO  api.test.UserTestsProperties - **************Deleted User Details *******************
+09:59:92.092 [main] INFO  api.test.UserTestsProperties - **************Creating post User *******************
+09:59:41.041 [main] INFO  api.test.UserTestsProperties - **************** User is created *******************
+09:59:44.044 [main] INFO  api.test.UserTestsProperties - **************Get User Details *******************
+09:59:230.230 [main] INFO  api.test.UserTestsProperties - **************User Details Displayed *******************
+09:59:233.233 [main] INFO  api.test.UserTestsProperties - **************Update User Details *******************
+09:59:630.630 [main] INFO  api.test.UserTestsProperties - **************Updated the User Details *******************
+09:59:632.632 [main] INFO  api.test.UserTestsProperties - **************Delete User Details *******************
+09:59:188.188 [main] INFO  api.test.UserTestsProperties - **************Deleted User Details *******************
